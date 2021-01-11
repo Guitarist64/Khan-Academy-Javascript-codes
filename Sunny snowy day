@@ -1,0 +1,23 @@
+Challenge: Sunny snowy day
+
+background(20, 174, 201);
+
+// The ground
+
+fill(122, 255, 102);
+
+rect(0, 300, 400, 100);  
+
+// The sun
+fill(239, 255, 18);
+
+ellipse(80, 64, 100, 100);  
+
+// The snowman
+fill(228, 242, 237);
+
+ellipse(200, 300, 150, 150);
+
+ellipse(200, 200, 100, 100);
+
+ellipse(200, 120, 75, 75);
