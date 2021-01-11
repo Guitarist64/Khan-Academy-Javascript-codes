@@ -1,0 +1,10 @@
+Challenge: Simple Snowman
+
+//bottom circle;
+ellipse(200,300, 150,150);
+
+//middle circle
+ellipse(200,180,120,120);
+
+//top circle;
+ellipse(199,85,94,100);
