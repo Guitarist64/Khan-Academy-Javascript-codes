@@ -1,0 +1,29 @@
+
+background(186, 145, 20); // wooden table
+
+fill(58, 78, 107);
+ellipse(200, 200, 350, 350); // plate
+ellipse(200, 200, 300, 300);
+fill(219, 184, 7);
+triangle( 150,50, 250, 120, 100, 300);
+fill(255, 0, 0);
+stroke(10, 10, 9);
+strokeWeight(5);
+
+ellipse( 164, 100, 50, 50);//Pizza 
+ellipse( 150, 170, 40, 40);
+ellipse( 200, 150, 50, 50);
+ellipse( 150,224,40,40);
+ellipse(125,250,20,20);
+fill(84, 29, 29);
+
+rect(200,200,100,69,66);//Brownie
+fill(13, 163, 13);
+ellipse(230,230,25,20);
+fill(255, 0, 0);
+ellipse(267,227,27,32);
+fill(27, 70, 145);
+
+ellipse(247,252,24,25);//Chocolate chips/M&M's
+fill(230, 194, 12);
+ellipse(277,253,24,25);
