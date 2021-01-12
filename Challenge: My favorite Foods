@@ -1,0 +1,6 @@
+fill(255, 0, 0);
+textSize(21);
+text("My Favorite Food;",21,20);
+text("1.Ribs",22,60);
+text("2.Mac and Cheese",22,106);
+text("3.Green Beans",22,150);
