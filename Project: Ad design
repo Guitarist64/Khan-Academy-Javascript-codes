@@ -1,0 +1,11 @@
+background(191, 21, 191);
+fill(239, 232, 255);
+textSize(30);
+text("Chick-fil-A",100, 30);
+textSize(16);
+text("Chicken, Chicken Tender",100,87);
+text("Big,Juicy,great flavor",100,120);
+text("To cook, eat, dip, and savor",80,150);
+
+var Numberone = getImage ("space/1");
+image(Numberone,135,200,150,150);
